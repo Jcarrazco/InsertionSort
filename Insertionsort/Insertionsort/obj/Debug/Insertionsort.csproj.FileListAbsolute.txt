@@ -1,0 +1,7 @@
+C:\Users\CETI\source\repos\Insertionsort\Insertionsort\bin\Debug\Insertionsort.exe.config
+C:\Users\CETI\source\repos\Insertionsort\Insertionsort\bin\Debug\Insertionsort.exe
+C:\Users\CETI\source\repos\Insertionsort\Insertionsort\bin\Debug\Insertionsort.pdb
+C:\Users\CETI\source\repos\Insertionsort\Insertionsort\obj\Debug\Insertionsort.csprojAssemblyReference.cache
+C:\Users\CETI\source\repos\Insertionsort\Insertionsort\obj\Debug\Insertionsort.csproj.CoreCompileInputs.cache
+C:\Users\CETI\source\repos\Insertionsort\Insertionsort\obj\Debug\Insertionsort.exe
+C:\Users\CETI\source\repos\Insertionsort\Insertionsort\obj\Debug\Insertionsort.pdb
